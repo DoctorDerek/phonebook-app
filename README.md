@@ -6,7 +6,7 @@
 
 This is a simple phonebook app that supports CRUD operations (create, read, update, delete).
 
-The app provides a form where you can enter in first name, last name, and phone number for each phonebook entry.
+The app provides a form where you can enter a name and phone number for each phonebook entry.
 
 Below you will find the complete feature set, a discussion section, and my technical journal.
 
