@@ -1,4 +1,4 @@
-[![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=phonebook-doctorderek)](https://phonebook-app.vercel.app/) [![Build Status](https://app.travis-ci.com/DoctorDerek/phonebook-app.svg?token=TMyceqi9yYWX3rDHdqVD&branch=main)](https://app.travis-ci.com/DoctorDerek/phonebook-app)
+[![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=phonebook-doctorderek)](https://phonebook-doctorderek.vercel.app/) [![Build Status](https://app.travis-ci.com/DoctorDerek/phonebook-app.svg?token=TMyceqi9yYWX3rDHdqVD&branch=main)](https://app.travis-ci.com/DoctorDerek/phonebook-app)
 
 # ☎️ Phonebook App - Next.js 13 + React 18 + Tailwind CSS + XState + CRUD Operations
 
